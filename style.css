@@ -4,3 +4,8 @@ html, body {
 body{
 	background-color: #3334444;
 }
+
+h1{
+	color: white;
+	text-align: center;
+}
